@@ -1,0 +1,22 @@
+{
+  "name": "http_client_request_package",
+  "version": "1.0.0",
+  "description": "http client with request package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-ywj/http_client_request_package.git"
+  },
+  "author": "c-ywj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-ywj/http_client_request_package/issues"
+  },
+  "homepage": "https://github.com/c-ywj/http_client_request_package#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
